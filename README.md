@@ -4,11 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamun1646&label=Profile%20views&color=0e75b6&style=flat" alt="mamun1646" /> </p>
 
 - 🔭 I’m currently working in [Talent Pro](https://talentpro.global/)
-
-- 🌱 I’m currently learning **Node.js,Nest.js, Mongodb.**
-
-- 👯 I’m looking to collaborate on [Quran.Com](www.quran.com)
-
+- 🌱 I’m currently learning ** Reactjs, Nextjs, Node.js,Nest.js, Mongodb.**
 - 👨‍💻 All of my projects are available at [https://github.com/Mamun1646](https://github.com/Mamun1646)
 
 - 💬 Ask me about **Javasript,React.js,Next.js,**
