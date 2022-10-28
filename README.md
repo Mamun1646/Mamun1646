@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mamun.ru.ice@gmail.com**
 
-- 📄 Know about my experiences ([https://github.com/Mamun1646](https://portfolio-mamun-ru.netlify.app/))
+- 📄 Know about my experiences ([https://portfolio-mamun-ru.netlify.app/](https://portfolio-mamun-ru.netlify.app/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
