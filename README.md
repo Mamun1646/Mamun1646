@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md. Al Mamun Mim</h1>
 <h3 align="center">A passionate Web developer and Competitive Programmer.</h3>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=34&pause=1000&color=071921&background=18135F32&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;HTML%7CCSS%7CJavascript;ReactJs%7CNextJs%7CRedux%7CTailwindCss;NodeJs%7CNestjs%7CExpressJs)](https://git.io/typing-svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamun1646&label=Profile%20views&color=0e75b6&style=flat" alt="mamun1646" /> </p>
 
 - 🔭 I’m currently working in [Talent Pro](https://talentpro.global/)
