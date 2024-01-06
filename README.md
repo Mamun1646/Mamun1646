@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web developer and Competitive Programmer.</h3>
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=56&pause=1000&color=071921&background=18135F32&center=true&vCenter=true&random=false&width=1000&height=100&lines=Software+Engineer;HTML%7CCSS%7CJavascript;ReactJs%7CNextJs%7CRedux%7CTailwindCss;NodeJs%7CNestjs%7CExpressJs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=45&pause=1000&color=071921&background=18135F32&center=true&vCenter=true&random=false&width=1100&height=70&lines=Software+Engineer;HTML%7CCSS%7CJavascript;ReactJs%7CNextJs%7CRedux;NodeJs%7CNestjs%7CExpressJs)](https://git.io/typing-svg)
 
 </div>
 
