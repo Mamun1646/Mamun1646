@@ -1,11 +1,4 @@
-<div align="center">Hi 👋, 
-
-
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=36&pause=1000&color=071921&background=18135F32&center=true&vCenter=true&random=false&width=700&height=70&lines=Md.+AL+Mamun+Mim;Software+Engineer)](https://git.io/typing-svg) 
-  
-  
-  </div>
+<h1 align="center">Hi 👋, I'm Md. Al Mamun Mim</h1>
 <h3 align="center">A passionate Web developer and Competitive Programmer.</h3>
 <div align="center">
   
