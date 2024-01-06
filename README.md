@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Md. Al Mamun Mim</h1>
 <h3 align="center">A passionate Web developer and Competitive Programmer.</h3>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Md+AL+Mamun Mim+|+Software+Engineer;C+|+CPP+|+Java;HTML+|+CSS+;JavaScript;React+|+React-Router+|+React-Bootstrap;Redux+|+React-Redux;Laravel+|+Node.js&width=500&duration=4000&center=true&vCenter=true&background="000000")](https://git.io/typing-svg)
+  
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamun1646&label=Profile%20views&color=0e75b6&style=flat" alt="mamun1646" /> </p>
 
